@@ -14,6 +14,9 @@
 #### https://financialmodelingprep.com/developer/docs/#Company-Financial-Statements  (API)
 #### https://pypi.org/project/yahoofinancials/  （Python）
 #### https://pypi.org/project/tushare/   （Python）
+
+### 微信讨论群，请添加：abcseesee
+### wechat discussion group, please add：abcseesee
     
 financial data visualization sharing discussion zone
 
